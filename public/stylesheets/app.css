@@ -1,0 +1,15 @@
+header {
+  background-color: #244751;
+  color: #E8FDFF;
+  font-family: 'Black Han Sans', sans-serif;
+}
+body {
+  background-color:whitesmoke;
+
+}
+main {
+  background-color: white;
+  padding: 16px;
+  border: 5px solid;
+  font-family: Arial, sans-serif;
+}
